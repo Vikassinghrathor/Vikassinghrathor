@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vikassinghrathor) | [Portfolio](https://vikasweb.netlify.app/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vikassinghrathor) | [Portfolio](https://vikas-rathore.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Redux Toolkit, Tailwind CSS, TypeScript, Java, NodeJS**
 
